@@ -6,26 +6,16 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 ```typescript
 const rian = {
   name: "Rian Phạm",
   role: "IT Student & Front-End Developer",
-  location: "Việt Nam",
-  focus: ["ReactJS", "UI/UX Design", "Modern Web Apps"],
-  learning: "Always",
+  focus: ["ReactJS", "UI/UX Design", "Web Development"],
+  learning: "🌱Always learning and improving coding skills",
 };
 ```
-
-- 🎓 &nbsp;Information Technology Student
-- ⚛️ &nbsp;Currently learning Front-End Development
-- 🎨 &nbsp;Interested in UI/UX Design and Web Development
-- 🌱 &nbsp;Always learning and improving coding skills
-- 💡 &nbsp;Passionate about creating modern and user-friendly web applications
-
 ---
 
 ## 🛠️ Tech Stack
@@ -47,16 +37,6 @@ const rian = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Current Focus
-
-```
-📌  Building projects with ReactJS
-📌  Improving CSS architecture & SCSS patterns  
-📌  Learning UI/UX design principles
-```
 
 ---
 
