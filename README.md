@@ -16,7 +16,6 @@ const rian = {
   learning: "🌱Always learning and improving coding skills",
 };
 ```
----
 
 ## 🛠️ Tech Stack
 
@@ -38,8 +37,6 @@ const rian = {
 
 </div>
 
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -48,8 +45,6 @@ const rian = {
 [![GitHub](https://img.shields.io/badge/GitHub-RianPham-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RianPham)
 
 </div>
-
----
 
 <div align="center">
 
