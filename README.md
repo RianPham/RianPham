@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Front-End+Developer+in+Progress;ReactJS+Explorer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/RianPham?style=for-the-badge&color=0ea5e9&labelColor=0f172a)](https://github.com/RianPham)
-[![Profile Views](https://komarev.com/ghpvc/?username=RianPham&style=for-the-badge&color=0ea5e9&labelColor=0f172a)](https://github.com/RianPham)
-
 </div>
 
 ---
